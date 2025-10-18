@@ -105,7 +105,3 @@ server.port=8081
 spring.application.name=my-app
 management.endpoints.web.exposure.include=health,info
 ```
-
-## 📞 연락처
-
-프로젝트에 대한 문의사항이 있으시면 언제든지 연락해 주세요.
